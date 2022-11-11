@@ -1,17 +1,15 @@
 # Code Refactor Starter Code
 ## Description
 
-I am fixing up a website, fixing sematics and missing features. I learned how to look for and solve errors
+I am fixing up a website, fixing sematics and missing features. I learned how to look for and solve errors. I had an issue that when i deployed the website, it instead brought up the readme files. I tried and failed to fix this.
 
 ## Installation
-Viste this link to view the website
+Viste this link to view the website https://ssteelcommander.github.io/Horisoen/
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Used as a proffesion website.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/Capture.GIF)
 
 ## Credits
 
